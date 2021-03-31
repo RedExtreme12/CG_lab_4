@@ -6,5 +6,8 @@
 
 ## Описание
 
+### Пример работы "пошагового алгоритма"
+
+![Screen of work example_1](https://github.com/RedExtreme12/CG_lab_4/blob/master/screens/step_by_step.png)
 
 
